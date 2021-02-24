@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oreadinc
 - 🤞🏻 I use Vue ✌🏻 
-- 📖 I’m currently learning Svelte and Gatsby
-- 💞️ I’m looking to collaborate on Vue project
+- 📖 I’m currently learning Svelte and Gatsby 📚
+- 💻 I’m looking to collaborate on Vue project 🛠️
 - 📫 How to reach me: oreadinc@gmail.com
