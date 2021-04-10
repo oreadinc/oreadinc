@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oreadinc
-- 🤞🏻 I use Vue ✌🏻 
-- 📖 I’m currently learning Svelte and Gatsby 📚
-- 💻 I’m looking to collaborate on Vue project 🛠️
+- 🤞🏻 I use Vue ✌🏻 and Alpine JS ⛰️
+- 📖 I’m currently learning Vector Graphic 📚
+- 💻 I’m looking forward to collaborate on Vue or Alpine project 🛠️
 - 📫 How to reach me: oreadinc@gmail.com
