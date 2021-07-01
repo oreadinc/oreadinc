@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @oreadinc 👈
-- 🤞🏻 I use Vue ✌🏻 and Alpine JS ⛰️
-- 📖 I’m currently learning Svelte 📚
+- 🤞🏻 I use Vue/Vite ✌🏻 and Alpine JS ⛰️
 - 💻 I’m looking forward to collaborate on Vue or Alpine project 🛠️
 - 📫 How to reach me: oreadinc@gmail.com 📧
