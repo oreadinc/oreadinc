@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @oreadinc 👈
 - 🤞🏻 I am Vue/Vite ✌🏻 Alpine JS ⛰️ and Firebase 🔥 developer 🛠️
-- 💻 I’m looking forward to collaborate on Vue or Alpine project 🛠️
 - 📫 How to reach me: oreadinc@gmail.com 📧
